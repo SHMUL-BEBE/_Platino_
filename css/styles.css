@@ -1378,7 +1378,7 @@ footer {
     .text1{
         font-size: 4px;
         line-height: 10px;
-        width: 104px;
+        width: 120px;
         height: 70px;
         margin-top: -20px;
     }
@@ -1389,9 +1389,8 @@ footer {
     }
 
     .btn1,.btn2 {
-        margin-top: 15px;
-        font-size: 6px;
-
+        margin-top: 30px;
+        font-size: 3px;
     }
 
     .btn2 {
@@ -1438,8 +1437,8 @@ footer {
     } 
 
     .plant{
-        width: 113.75px;
-        height: 43.12px;
+        width: 120px;
+        height: 45px;
         top: 47.88px; 
         margin: 0 7.94px;
     }   
@@ -1706,7 +1705,7 @@ footer {
     } 
 
     .txt_btn4{
-        margin-left: 2px;
+        margin-left: 4px;
     }
 
     /****БЛОК8****/
@@ -1783,6 +1782,8 @@ footer {
     }
 
     .txt_btn5{
+        display:flex;
+        line-hight:0;
         margin-left: 0;
     }
 
@@ -1811,7 +1812,7 @@ footer {
     }
 
     .text11{
-        width:200px;
+        width:300px;
         height: 10px;
         font-size: 6px;
         margin-top: 4px;
@@ -1831,7 +1832,7 @@ footer {
     }
     
     .btn6, .btn7{
-        margin-top: 127px;
+        margin-top: 130px;
         margin-left: -73px;
     }
 
