@@ -1695,7 +1695,7 @@ footer {
     }
 
     .btn4{
-        margin-top: 221px;
+        margin-top: 241px;
         margin-bottom: 12px;
         font-size: 6px;
     } 
@@ -1706,7 +1706,7 @@ footer {
     } 
 
     .txt_btn4{
-        margin-left: 10px;
+        margin-left: 4px;
     }
 
     /****БЛОК8****/
@@ -1778,12 +1778,12 @@ footer {
 
     .btn5{
         margin-top: 10px;
-        font-size: 6px;
-        margin-bottom: 8px;
+        font-size: 3px;
+        margin-bottom: 0px;
     }
 
     .txt_btn5{
-        margin-left: 4px;
+        margin-left: 2px;
     }
 
     .wall{
@@ -1813,7 +1813,7 @@ footer {
     .text11{
         width:180px;
         height: 10px;
-        line-height:20px;
+        line-height:8px;
         font-size: 6px;
         margin-top: 10px;
         margin-bottom: 5px;
