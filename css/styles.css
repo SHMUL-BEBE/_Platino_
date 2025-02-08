@@ -1361,7 +1361,7 @@ footer {
     }
 
     .title1, .title2{
-        font-size: 15px;
+        font-size: 14px;
     }
 
     .str{
@@ -1376,7 +1376,7 @@ footer {
     }
 
     .text1{
-        font-size: 6px;
+        font-size: 4px;
         line-height: 10px;
         width: 104px;
         height: 70px;
@@ -1389,7 +1389,7 @@ footer {
     }
 
     .btn1,.btn2 {
-        margin-top: 10px;
+        margin-top: 15px;
         font-size: 6px;
 
     }
@@ -1450,7 +1450,7 @@ footer {
     }
     
     .name1, .name3{
-        font-size: 4px;  
+        font-size: 2px;  
     }
 
     .name1{
@@ -1459,7 +1459,7 @@ footer {
     
     .name2{
         margin-bottom: -6px;
-        font-size: 6px;  
+        font-size: 3px;  
     }
 
     .pot{
@@ -1510,11 +1510,11 @@ footer {
     }
 
     .title3{
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .text2,.text3{
-        font-size: 6px;
+        font-size: 4px;
         line-height: 8px;
     }
 
@@ -1524,7 +1524,7 @@ footer {
     }
 
     .txt_btn3{
-        margin-left: 10px;
+        margin-left: 8px;
         font-size: 6px;
     }
 
