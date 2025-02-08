@@ -1378,8 +1378,8 @@ footer {
     .text1{
         font-size: 4px;
         line-height: 10px;
-        width: 120px;
-        height: 70px;
+        width: 130px;
+        height: 90px;
         margin-top: -20px;
     }
 
@@ -1389,7 +1389,7 @@ footer {
     }
 
     .btn1,.btn2 {
-        margin-top: 30px;
+        margin-top: 50px;
         font-size: 3px;
     }
 
@@ -1437,8 +1437,8 @@ footer {
     } 
 
     .plant{
-        width: 120px;
-        height: 45px;
+        width: 130px;
+        height: 50px;
         top: 47.88px; 
         margin: 0 7.94px;
     }   
@@ -1694,7 +1694,7 @@ footer {
     }
 
     .btn4{
-        margin-top: 241px;
+        margin-top: 235px;
         margin-bottom: 12px;
         font-size: 6px;
     } 
@@ -1705,7 +1705,7 @@ footer {
     } 
 
     .txt_btn4{
-        margin-left: 4px;
+        margin-left: 6px;
     }
 
     /****БЛОК8****/
@@ -1782,6 +1782,8 @@ footer {
     }
 
     .txt_btn5{
+        width:49px;
+        height:9px;
         display:flex;
         line-hight:0;
         margin-left: 0;
@@ -1813,11 +1815,11 @@ footer {
 
     .text11{
         width:300px;
-        height: 10px;
-        font-size: 6px;
+        height: 15px;
+        font-size: 4px;
         margin-top: 4px;
         margin-bottom: 5px;
-        margin-left: -13px;
+        margin-left: -10px;
     }
 
     .auth{
