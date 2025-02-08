@@ -1813,6 +1813,7 @@ footer {
     .text11{
         width:180px;
         height: 10px;
+        line-height:20px;
         font-size: 6px;
         margin-top: 10px;
         margin-bottom: 5px;
@@ -1846,10 +1847,10 @@ footer {
 
     .txt_btn1, .txt_btn2{
         font-size: 6px;
-        margin-left: 8px;
+        margin-left: 4px;
     }
     .txt_btn2{
-        margin-left: 14px;
+        margin-left: 10px;
     }
     /****Секция3****/
     .section3{
@@ -1941,12 +1942,12 @@ footer {
     }
 
     .text15{
-        font-size: 6px;
-        line-height: 12px;
+        font-size: 3px;
+        line-height: 8px;
         margin-top: 16px;  
         margin-left: 15px;  
         width: 200px;
-        height: 43px;  
+        height: 40px;  
     }
 
     .knopka {
