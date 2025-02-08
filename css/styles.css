@@ -1445,8 +1445,8 @@ footer {
     }   
 
     .text{
-        padding-top: 8px;
-        padding-left: 10px;  
+        padding-top: 6px;
+        padding-left: 8px;  
     }
     
     .name1, .name3{
@@ -1454,12 +1454,12 @@ footer {
     }
 
     .name1{
-        margin-bottom: 5px;
+        margin-bottom: 3px;
     }
     
     .name2{
-        margin-bottom: -6px;
-        font-size: 3px;  
+        margin-bottom: -3px;
+        font-size: 2px;  
     }
 
     .pot{
@@ -1706,7 +1706,7 @@ footer {
     } 
 
     .txt_btn4{
-        margin-left: 4px;
+        margin-left: 2px;
     }
 
     /****БЛОК8****/
@@ -1777,13 +1777,13 @@ footer {
     }
 
     .btn5{
-        margin-top: 10px;
+        margin-top: 20px;
         font-size: 3px;
         margin-bottom: 0px;
     }
 
     .txt_btn5{
-        margin-left: 2px;
+        margin-left: 0;
     }
 
     .wall{
@@ -1811,11 +1811,10 @@ footer {
     }
 
     .text11{
-        width:180px;
+        width:200px;
         height: 10px;
-        line-height:8px;
         font-size: 6px;
-        margin-top: 10px;
+        margin-top: 4px;
         margin-bottom: 5px;
         margin-left: -13px;
     }
